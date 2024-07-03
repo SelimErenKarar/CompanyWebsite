@@ -1,0 +1,10 @@
+<?php $this->load->view("home-top-header"); ?>
+<?php $this->load->view("home-header"); ?>
+<?php $this->load->view("home-sliders"); ?>
+<?php $this->load->view("home-about_us"); ?>
+<?php $this->load->view("home-services"); ?>
+<?php $this->load->view("home-teams"); ?>
+<?php $this->load->view("home-counters"); ?>
+<?php $this->load->view("home-projects"); ?>
+<?php $this->load->view("footer"); ?>
+<?php $this->load->view("bottom-footer"); ?>
